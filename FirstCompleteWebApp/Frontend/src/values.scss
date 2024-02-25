@@ -1,0 +1,93 @@
+// Colors 
+$main-color: #0f7d4d;
+$secondary-color: #0c5937;
+$button-shadow-color: rgba(0, 0, 0, 0.25);
+
+$translucent-main-color: rgba($main-color, 0.5);
+$translucent-secondary-color: rgba($secondary-color, 0.5);
+
+$body-color: rgb(255, 244, 244);
+$body-color-gradient: linear-gradient(150deg, $main-color, $body-color, $body-color, $body-color);
+
+// Dimensions
+$max-w: 100vw;  $max-w-percent: 100%;
+$max-h: 100vh;  $max-h-percent: 100%;
+$almost-max-w: 90vw;
+$almost-max-h: 90vh;
+
+$button-w: 100px;
+$button-h: 30px;
+$round-button: 50px;
+
+$question-card-big-w: 95vw;
+$question-card-big-h: 85vh;
+$question-card-w: 800px;
+$question-card-h: 350px;
+$question-card-max-w: 85%;
+
+$question-card-wide-component-w: $question-card-big-w - 4;
+
+$input-h: 150px;
+$input-w: 300px;
+
+$form-title-w: 70vw;
+$form-title-max-w: 1000px;
+
+$footer-height: 100px;
+$header-height: 50px;
+
+$box-shadow-h-offset-sm: 2px; 
+$box-shadow-v-offset-sm: 2px;
+$box-shadow-h-offset-md: 3px; 
+$box-shadow-v-offset-md: 3px;
+$box-shadow-h-offset-lg: 4px; 
+$box-shadow-v-offset-lg: 4px;
+$box-shadow-blur-sm: 2px;
+$box-shadow-blur-nil: 0px;
+$box-shadow-spread-sm: 2px;
+
+$checkbox-h: 25px;
+
+$login-title-size: 70px;
+$login-title-size-sm: 30px;
+
+$login-menu-w: 90vw;
+$login-menu-max-w: 700px;
+
+$graph-max-h: 380px;
+$graph-h-percent: 85vw;
+
+$graph-max-w: $question-card-w*0.9;
+$graph-w-percent: 85vw;
+
+// --- Margins and others
+$padding-sm: 5px;
+$padding-md: 10px;
+$padding-lg: 15px;
+
+$margin-sm: 5px;
+$margin-md: 10px;
+$margin-lg: 15px;
+
+$floating-button-margin-h: 30px;
+$floating-button-margin-v: 30px;
+
+$button-font-size: 15px;
+$border-radius: 5px;
+
+$circle-border-radius: 50%;
+$curved-border-radius: 40%;
+
+$max-length-sm: 60;
+$max-length-md: 110;
+$max-length-lg: 1000;
+
+// Transitions
+$transition-duration: 270ms;
+
+// Fonts
+$default-font: "Montserrat";
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}

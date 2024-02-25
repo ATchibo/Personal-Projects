@@ -1,0 +1,22 @@
+@import '../../values.scss';
+
+.title {
+    font-size: 2em;
+    margin-top: 0;
+    margin-bottom: $margin-md;
+}
+
+.description {
+    margin-top: 0;
+    margin-bottom: $margin-md;
+}
+
+.go-btn {
+    background-color: $main-color !important;
+    color: white;
+    margin-top: $margin-lg !important;
+}
+
+.go-btn:hover {
+    background-color: $secondary-color !important;
+}

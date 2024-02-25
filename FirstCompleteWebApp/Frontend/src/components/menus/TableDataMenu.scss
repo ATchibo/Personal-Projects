@@ -1,0 +1,12 @@
+@import '../../values.scss';
+
+.table-data-menu-div {
+    max-width: 95%;
+}
+
+.add-table-view-btn {
+    width: $question-card-w;
+    max-width: 95%;
+
+    margin: $margin-md !important;
+}
