@@ -1,4 +1,4 @@
-# Personal-Projects
+# Personal projects
 
 This is a repository containing my most important projects, from the 9th grade up until now, presented in chronological order (mostly). Not all of them are very polished, but I promise that all of them have soul and a great personality :D.
 
