@@ -58,4 +58,4 @@ A Desktop game, available on Steam: https://store.steampowered.com/app/1721090/C
 ## My first complete web app
 Even though I played with React and Spring boot in the past, this was my first fully-working web application developed from scratch and deployed in the cloud. 
 The frontend is built using React, while the backend is written in Java using Spring Boot. For the database, I chose PostgereSQL.
-The backend and database were deployed on an AWS EC2 instance, while the frontend app was deployed on Vercel.
+The backend and database were deployed on an AWS EC2 instance and the frontend app was deployed on Vercel.
